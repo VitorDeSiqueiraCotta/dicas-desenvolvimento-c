@@ -1,6 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/VitorDeSiqueiraCotta/dicas-desenvolvimento-c.svg?color=Blue&label=License&style=flat-square)  ![GitHub Last Commit](https://img.shields.io/github/last-commit/VitorDeSiqueiraCotta/dicas-desenvolvimento-c.svg?color=Blue&label=Last%20Commit&style=flat-square)  ![GitHub Views](https://img.shields.io/github/search/VitorDeSiqueiraCotta/dicas-desenvolvimento-c/dicas-desenvolvimento-c.svg?color=Blue&label=Views&style=flat-square)
 
-# Guia de Implementação
+# Dicas desenvolvimento C
 
 Guia básico de desenvolvimento na linguagem C, contendo compilação de boas práticas para maximizar a produtividade, confiabilidade, segurança e qualidade do software.
 
@@ -400,8 +400,15 @@ int main(void) {
 
 # Licença
 
-MIT © [Vitor de Siqueira Cotta](https://github.com/VitorDeSiqueiraCotta) 2019
+**"[Dicas desenvolvimento C](https://github.com/VitorDeSiqueiraCotta/dicas-desenvolvimento-c/)" by [Vitor de Siqueira Cotta](https://flickr.com/photos/lschlagenhauf/) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).** 
 
-:email:[vitorsiqueira95@outlook.com](vitorsiqueira95@outlook.com) 
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-:clipboard:[Linkedin](https://www.linkedin.com/in/vitor-de-siqueira-cotta-analista-de-sistemas/)
+# Contato
+
+<div align="center"><a href="https://www.linkedin.com/in/vitor-de-siqueira-cotta-analista-programador/"><img src="https://img.shields.io/badge/-Github-181717?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://github.com/VitorDeSiqueiraCotta"> <img src="https://img.shields.io/badge/-Linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:vitorsiqueira95@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:vitorsiqueira95@outlook.com"/></a> <a href="https://www.udemy.com/user/vitor-siqueira-2/"> <img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=udemy&logoColor=white&link=https://www.udemy.com/user/vitor-siqueira-2/"/></a></div>
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
